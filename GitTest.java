@@ -16,6 +16,9 @@ public class GitTest{
 		return Test;
 	}
 
+public void setString(){
+
+}
 
 
 
