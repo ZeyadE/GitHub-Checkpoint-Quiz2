@@ -10,6 +10,10 @@ public class GitTest{
 		this.Test = Test;
 	}
 
+	public String getTest(){
+		return Test;
+	}
+
 
 
 
